@@ -1,1 +1,8 @@
 /* your code */
+table{
+	border:0.1px solid black;
+}
+
+thead{
+	background:blue;
+}
